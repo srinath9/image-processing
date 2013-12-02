@@ -1,0 +1,14 @@
+cvGet2D(img,i,j): takes the pixel ith, jth of image 
+cvScalar it stores 4 values
+
+blobs to find a specific part in a figure
+
+
+sessions:
+vedio
+noise-erode,dilation
+edge detectionn
+blob
+color detection
+carry
+
