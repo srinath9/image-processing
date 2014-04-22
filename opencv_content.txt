@@ -1,6 +1,7 @@
 cvGet2D(img,i,j): takes the pixel ith, jth of image 
 cvScalar it stores 4 values
 
+<<<<<<< HEAD
 cvmGet()
 cvSetReal2D( mat, 2, 2, 0.5000 );
 
@@ -50,7 +51,7 @@ Canny:
 Edge detection:
 
 
-
+dls
 line detection:
 
 
@@ -77,3 +78,16 @@ Shape detection:
 
 
 9830503030 : shushman
+=======
+blobs to find a specific part in a figure
+
+
+sessions:
+vedio
+noise-erode,dilation
+edge detectionn
+blob
+color detection
+carry
+
+>>>>>>> 740a460be5c6b62bab6452e8032caab1e6495f8f
