@@ -1,0 +1,75 @@
+cvGet2D(img,i,j): takes the pixel ith, jth of image 
+cvScalar it stores 4 values
+
+cvmGet()
+cvSetReal2D( mat, 2, 2, 0.5000 );
+
+
+to do:
+greyscale 
+trackbar
+make thee media and make the threshold values randomly
+binary
+vedio making
+
+
+make a vedio player 
+import vedio as told
+create taskbar
+use callback function to change vedio playing position as the trackbar is moved
+
+// 2 functions which  will be required
+
+erosion : remove the noise of black dot when it is surrounded by a lot of white pixel 
+
+kernel is a matrix it will always a be an odd matrix 
+
+we first dilatte and then erode
+
+eroding making the size decreasing and dilattion increasing the size
+
+edge is an abrab change in intensity
+
+binarize : algoritm:
+	convert it to grey and make blck and white
+
+histogrmmic automatic binarize:
+
+create image:
+	we should get the size and point it to a variable
+
+blobs:algoritm:
+	use concept of queue
+	go to a point and take all the point that are have similar value surrounding it
+Canny:
+
+Edge detection:
+
+
+
+line detection:
+
+
+
+vedio writer:
+
+cvcanny : algorithm:
+	let (x,y) is in the line y=mx+c 
+	for a particluar (x,y) there are infinte (m,c) or (r,theta)
+	make a 2D array with max (M,C) and check which value are most repeating
+
+
+Shape detection:
+
+
+
+
+
+
+
+
+
+
+
+
+9830503030 : shushman

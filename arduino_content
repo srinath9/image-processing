@@ -1,0 +1,13 @@
+serialmonitor:
+	send and recieve data from computer and arduino(as long as that function works)
+
+serial.begin(9600):
+	rate at which arduino recieve and comp can send
+
+Serial.available()
+
+Serial.read();
+Serial.println()
+
+
+motor driver has six ports: 3 for each
